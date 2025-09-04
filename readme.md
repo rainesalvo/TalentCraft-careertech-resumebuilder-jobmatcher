@@ -68,7 +68,7 @@ TalentCraft is a full‑stack platform that analyzes resumes, extracts skills an
 ## 🎮 Live Demo
 
 - Demo: coming soon
-- Video: coming soon
+- Video: https://youtu.be/xuvKl3-7zCc?si=w9u9ri1DCNXsgaz8
 
 ## 📚 Table of Contents
 
