@@ -1,0 +1,37 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Virtual environment #
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# IDEs and editors #
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Unit test / coverage reports #
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Migrations (optional, uncomment if you don't want migrations in repo) #
+# */migrations/
+# !*/migrations/__init__.py
+
+# OS-specific #
+.DS_Store
+Thumbs.db
