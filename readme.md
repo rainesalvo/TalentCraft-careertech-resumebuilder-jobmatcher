@@ -56,9 +56,14 @@ AI-powered resume analysis, smart job matching, and interview practice — all i
 
 TalentCraft is a full‑stack platform that analyzes resumes, extracts skills and experience, and compares them against job descriptions to produce a match score with actionable feedback. It also includes an HR interview practice assistant and a simple resume builder to generate polished PDFs.
 
-<div align="center">
-  <img src="/screenshot/login.png" alt="TalentCraft Login" width="700" />
-</div>
+---
+## 👨‍💻 Developer Info
+
+- **Full Name:** Monpara Romil Kamleshbhai
+- 🎓 B.Tech in Information Technology, LJIET (Graduating in 2027)
+- **GitHub:** [https://github.com/romilmonpara](https://github.com/romilmonpara)
+- **LinkedIn:** [https://www.linkedin.com/in/romilmonpara](https://www.linkedin.com/in/romilmonpara)
+---
 
 ## 🎮 Live Demo
 
