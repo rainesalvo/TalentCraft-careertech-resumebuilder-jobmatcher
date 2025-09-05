@@ -8,4 +8,3 @@ urlpatterns = [
     path('hr-questions/next-question/', NextQuestionView.as_view(), name='hr-next-question'),
     path('hr-questions/random/', RandomQuestionView.as_view(), name='hr-random-question'),
 ]
- 
